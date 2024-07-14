@@ -1,1 +1,1 @@
-All the problems are solved in java
+All the problems are solved in Java
