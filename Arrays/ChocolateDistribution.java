@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 public class ChocolateDistribution {
     public static int minimumDiff(int[] arr, int m){
