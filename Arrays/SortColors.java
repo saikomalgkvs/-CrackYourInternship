@@ -2,7 +2,6 @@ package Arrays;
 
 class Solution {
     public void sortColors(int[] nums) {
-        int n = nums.length;
         int[] count = new int[3];
 
         for(int i : nums){
