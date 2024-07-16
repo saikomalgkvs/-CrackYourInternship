@@ -10,7 +10,7 @@ package LinkedList;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class BinaryNumberToInteger {
     public int getDecimalValue(ListNode head) {
         StringBuilder sb = new StringBuilder();
 

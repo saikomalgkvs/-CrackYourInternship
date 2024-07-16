@@ -11,7 +11,7 @@ package LinkedList;
  *     }
  * }
  */
-class Solution {
+class LinkedListCycle {
     public boolean hasCycle(ListNode head) {
         ListNode a = head;
         ListNode b = head;

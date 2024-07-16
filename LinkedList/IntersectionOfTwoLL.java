@@ -11,7 +11,7 @@ import java.util.*;
  *     }
  * }
  */
-class Solution {
+class IntersectionOfTwoLL {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA == headB) return headA;
         List<ListNode> a = new ArrayList<>();

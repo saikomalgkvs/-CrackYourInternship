@@ -8,7 +8,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-class Solution {
+class MiddleOfLL {
     public ListNode middleNode(ListNode head) {
         ListNode a = head;
         ListNode b = head;
