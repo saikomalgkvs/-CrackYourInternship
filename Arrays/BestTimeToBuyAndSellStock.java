@@ -1,5 +1,5 @@
 package Arrays;
-class Solution {
+class BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {
         int min = prices[0];
 
