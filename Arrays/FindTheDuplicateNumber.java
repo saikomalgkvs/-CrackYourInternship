@@ -1,6 +1,6 @@
 package Arrays;
 
-class Solution {
+class FindTheDuplicateNumber {
     public int findDuplicate(int[] nums) {
         int n = nums.length;
         int[] arr = new int[n+1];

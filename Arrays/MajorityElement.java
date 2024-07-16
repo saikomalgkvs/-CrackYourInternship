@@ -1,6 +1,7 @@
 package Arrays;
 import java.util.*;
-class Solution {
+
+class MajorityElement {
     public int majorityElement(int[] nums) {
         Map<Integer,Integer> map = new HashMap<>();
 

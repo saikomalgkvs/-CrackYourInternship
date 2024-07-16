@@ -1,6 +1,6 @@
 package Arrays;
 import java.util.*; 
-class Solution {
+class SetMatrixZeros {
     public void setZeroes(int[][] matrix) {
         List<int[]> lst = new ArrayList<>();
         for (int i = 0; i < matrix.length; i++) {
