@@ -1,6 +1,6 @@
 package Strings;
 
-class Solution {
+class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         int count = 0;
         boolean breaked =false;
