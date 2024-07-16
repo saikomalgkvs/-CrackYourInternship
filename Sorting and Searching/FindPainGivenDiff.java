@@ -1,4 +1,3 @@
-package SortingandSearching;
 /* Find pair given difference */
 import java.util.Arrays;
 

@@ -1,5 +1,3 @@
-package SortingandSearching;
-
 import java.util.Arrays;
 
 public class PermutateTwoArrays {
