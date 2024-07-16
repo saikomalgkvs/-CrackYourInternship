@@ -15,7 +15,7 @@ package Trees;
  *     }
  * }
  */
-class Solution {
+class SymmetricTree {
     public boolean isSymmetric(TreeNode root) {
         return func(root.left, root.right);
     }

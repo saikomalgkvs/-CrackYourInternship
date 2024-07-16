@@ -15,7 +15,7 @@ package Trees;
  *     }
  * }
  */
-class Solution {
+class SortedArraytoBST {
     public TreeNode sortedArrayToBST(int[] nums) {
         int l = 0;
         int r = nums.length-1;

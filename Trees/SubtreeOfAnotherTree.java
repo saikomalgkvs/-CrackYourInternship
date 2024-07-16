@@ -15,7 +15,7 @@ package Trees;
  *     }
  * }
  */
-class Solution {
+class SubtreeOfAnotherTree {
     boolean ans = false;
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
        if(root==null) return false;

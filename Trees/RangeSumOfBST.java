@@ -15,7 +15,7 @@ package Trees;
  *     }
  * }
  */
-class Solution {
+class RangeSumOfBST {
     int ans = 0;
     public int rangeSumBST(TreeNode root, int low, int high) {
         if(root==null) return 0;

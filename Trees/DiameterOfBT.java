@@ -13,7 +13,7 @@ class TreeNode {
     }
 }
 
-class Solution {
+class DiameterOfBT {
     int max = 0;
     public int diameterOfBinaryTree(TreeNode root) {
         height(root);

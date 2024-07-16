@@ -15,7 +15,7 @@ package Trees;
  *     }
  * }
  */
-class Solution {
+class nvertTree {
     public TreeNode invertTree(TreeNode root) {
         if(root == null) return null;
 
