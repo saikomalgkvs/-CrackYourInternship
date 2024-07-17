@@ -10,7 +10,7 @@ package LinkedList;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class RemoveLLElements {
     public ListNode removeElements(ListNode head, int val) {
         ListNode temp = head;
 

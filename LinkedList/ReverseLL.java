@@ -10,7 +10,7 @@ package LinkedList;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class ReverseLL {
     public ListNode reverseList(ListNode head) {
         if(head == null) return head;
         ListNode curr = head;

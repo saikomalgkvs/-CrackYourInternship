@@ -13,7 +13,7 @@ class Node
     }
 }
 
-class Solution {
+public class SortLinkedList {
     // Function to sort a linked list of 0s, 1s and 2s.
     static Node segregate(Node head) {
         int count = 0;

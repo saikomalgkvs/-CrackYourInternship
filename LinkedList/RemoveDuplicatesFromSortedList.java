@@ -10,7 +10,7 @@ package LinkedList;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class RemoveDuplicatesFromSortedList {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode temp = head;
 
