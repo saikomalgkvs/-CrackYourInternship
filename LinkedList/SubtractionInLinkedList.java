@@ -21,7 +21,6 @@ public class SubtractionInLinkedList {
         if(head2.data == 0) return head1;
         
         Node t1 = head1;
-        boolean flag = true;
         while(t1 != null){
             n1.append(t1.data);
             t1 = t1.next;
