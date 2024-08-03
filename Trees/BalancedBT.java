@@ -1,6 +1,6 @@
 package Trees;
 /* balanced binary tree */
-public class BalancedBT {
+class BalancedBT {
     boolean flag = true;
     public boolean isBalanced(TreeNode root) {
         height(root);
