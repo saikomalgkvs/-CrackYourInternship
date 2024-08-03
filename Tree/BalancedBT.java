@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 /* balanced binary tree */
 class BalancedBT {
     boolean flag = true;

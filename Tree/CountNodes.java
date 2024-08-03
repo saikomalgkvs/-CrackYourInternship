@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 /* Count BST nodes that lie in a given range */
 public class CountNodes {
