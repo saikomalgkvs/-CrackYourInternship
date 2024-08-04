@@ -1,5 +1,3 @@
-package Arrays;
-
 class SortColors {
     public void sortColors(int[] nums) {
         int[] count = new int[3];
