@@ -1,5 +1,3 @@
-package Graph;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import javafx.util.Pair;

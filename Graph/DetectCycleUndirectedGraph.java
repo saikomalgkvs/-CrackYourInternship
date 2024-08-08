@@ -1,5 +1,3 @@
-package Graph;
-
 import java.util.ArrayList;
 
 // Detect cycle in an undirected graph

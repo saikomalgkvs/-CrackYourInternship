@@ -1,5 +1,3 @@
-package Graph;
-
 public class FloodFill {
     public int[][] floodFill(int[][] mat, int i, int j, int color) {
         boolean[][] vis = new boolean[mat.length][mat[0].length];
