@@ -1,5 +1,6 @@
 // Problem link:
 // https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+import java.util.*;
 
 class StronglyConnectedComponents{
     // Function to find number of strongly connected components in the graph.
@@ -31,7 +32,6 @@ class StronglyConnectedComponents{
         while (!stack.isEmpty()) {
             int node = stack.pop();
             if (!vis[node]) {
-                Stack<Integer> temp = new Stack<>();
                 dfs2(node, adjListT, vis);
                 scc++;
             }
