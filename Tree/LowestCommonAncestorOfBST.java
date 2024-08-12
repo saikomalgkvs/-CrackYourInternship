@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 public class LowestCommonAncestorOfBST {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

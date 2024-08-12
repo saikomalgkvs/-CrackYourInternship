@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 public class PathSum {
     int sum = 0;

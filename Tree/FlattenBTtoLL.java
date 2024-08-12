@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 public class FlattenBTtoLL {
     public void flatten(TreeNode root) {

@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 public class MinimumAbsoluteDiffInBST {
     int ans = Integer.MAX_VALUE;

@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 // Problem link:
 // https://leetcode.com/problems/unique-binary-search-trees/

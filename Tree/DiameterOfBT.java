@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 class TreeNode {
     int val;

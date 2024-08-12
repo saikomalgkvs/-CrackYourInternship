@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 /* Construct Binary Tree from preorder and postorder */
 public class PreorderAndPostOrder {
     int i = 0, j = 0;

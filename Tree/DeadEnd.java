@@ -1,6 +1,6 @@
 /* Check whether BST contains Dead End */
 
-package Trees;
+package Tree;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Trees;
+package Tree;
 
 public class ValidateBST {
     public boolean isValidBST(TreeNode root) {        
