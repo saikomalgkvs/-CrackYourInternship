@@ -14,7 +14,7 @@ class Pair{
         return "[" + key +","+ val + "]";
     }
 }
-class ReorganizeString {
+public class ReorganizeString {
     public String reorganizeString(String s) {
         int n = s.length();
         
